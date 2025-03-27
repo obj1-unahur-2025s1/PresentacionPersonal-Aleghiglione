@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+Hola, mi nombre es Alejandro Ghiglione. Actualmente tengo 21 años y vivo en la ciudad de Hurlingham, Buenos Aires.
 
+Comencé la carrera de programación en 2023, luego de terminar mis estudios secundarios. Todo lo relacionado con la informática siempre me ha apasionado desde chico. Mis primeros acercamientos a la programación fueron alrededor de los 14 o 15 años, cuando tuve mis primeras clases en la secundaria, y desde el principio me fue algo que me volo la cabeza.
 
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+Cursé el secundario en un colegio técnico con orientación en informática, donde obtuve el título de Técnico en Informática Profesional y Personal. Este recorrido me permitió aprender conceptos clave que me ayudaron a desarrollarme de manera autodidacta.
+
+Actualmente, llevo casi un año trabajando como Técnico en Sistemas y me gustaría completar tanto la carrera de programación como la de redes, entre otras, para seguir mejorando mis habilidades y conocimientos.
